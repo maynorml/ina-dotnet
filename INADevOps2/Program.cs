@@ -13,7 +13,7 @@ namespace INADevOps2
             Console.Write("EScribe tu nombre ");
             string n = Console.ReadLine();
             p.Transformar(n);
-            Console.WriteLine("El nombre tuyo es {0} ", p.Transformado);
+            Console.WriteLine("El nombre tuyo es {0} ", p.Transformado;
         }
     }
 }
